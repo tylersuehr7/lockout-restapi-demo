@@ -3,4 +3,4 @@ spring:
     mongodb:
       host: localhost
       authentication-database: admin
-      database: content
+      database: LockoutDemo
